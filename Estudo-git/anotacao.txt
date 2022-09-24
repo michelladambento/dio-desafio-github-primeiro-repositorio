@@ -1,3 +1,3 @@
 Anotações de estudo sobre o github e o git.
 Desafio imposto pela Digital Inovation.
-Organizar as tarefas próximo passo.
+Organizar as tarefas para o próximo passo.
